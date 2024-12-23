@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust involving unsafe raw pointers and vectors.  The `bug.rs` file shows the unsafe code that can lead to memory corruption. The `bugSolution.rs` file provides a safe and more idiomatic solution using vector indexing.
